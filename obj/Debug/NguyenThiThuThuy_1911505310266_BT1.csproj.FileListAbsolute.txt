@@ -1,0 +1,7 @@
+D:\THUTHUY\Năm 3\Kì 221\Lập trình C#\Bài tập\NguyenThiThuThuy_1911505310266_BT1\bin\Debug\NguyenThiThuThuy_1911505310266_BT1.exe.config
+D:\THUTHUY\Năm 3\Kì 221\Lập trình C#\Bài tập\NguyenThiThuThuy_1911505310266_BT1\bin\Debug\NguyenThiThuThuy_1911505310266_BT1.exe
+D:\THUTHUY\Năm 3\Kì 221\Lập trình C#\Bài tập\NguyenThiThuThuy_1911505310266_BT1\bin\Debug\NguyenThiThuThuy_1911505310266_BT1.pdb
+D:\THUTHUY\Năm 3\Kì 221\Lập trình C#\Bài tập\NguyenThiThuThuy_1911505310266_BT1\obj\Debug\NguyenThiThuThuy_1911505310266_BT1.csprojAssemblyReference.cache
+D:\THUTHUY\Năm 3\Kì 221\Lập trình C#\Bài tập\NguyenThiThuThuy_1911505310266_BT1\obj\Debug\NguyenThiThuThuy_1911505310266_BT1.csproj.CoreCompileInputs.cache
+D:\THUTHUY\Năm 3\Kì 221\Lập trình C#\Bài tập\NguyenThiThuThuy_1911505310266_BT1\obj\Debug\NguyenThiThuThuy_1911505310266_BT1.exe
+D:\THUTHUY\Năm 3\Kì 221\Lập trình C#\Bài tập\NguyenThiThuThuy_1911505310266_BT1\obj\Debug\NguyenThiThuThuy_1911505310266_BT1.pdb
